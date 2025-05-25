@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Ventas con CSV, SQL y Visualización
+# Proyecto Final de Herramientas de Inteligencia Artificial
 
 Este repositorio contiene un análisis de datos de ventas combinando un dataset en formato CSV y una base de datos SQLite. Se utiliza la librería Pandas para la manipulación de datos y Matplotlib, Bokeh y PyWalker para la visualización.
 
@@ -34,4 +34,4 @@ Este repositorio contiene un análisis de datos de ventas combinando un dataset 
 
 ## Autor
 
-Estudiante de la Maestría en Inteligencia Artificial Aplicada
+Viviana Quevedo estudiante de la Maestría en Inteligencia Artificial Aplicada
