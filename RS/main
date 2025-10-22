@@ -1,0 +1,7 @@
+Trabajo en grupo
+Book-Crossing: User review ratings
+https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset?resource=download
+Contiene 278.858 usuarios (anónimos pero con información demográfica) que proporcionan 1.149.780 calificaciones (explícitas / implícitas) sobre 271.379 libros.
+Actualización:
+Datos preprocesados
+Nuevas características: Categoría, Idioma y Resumen
